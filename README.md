@@ -1,5 +1,7 @@
 # ucsd-vpn
 
+<img src="https://github.com/IsaiahShibb/ucsd-vpn/blob/main/vp.png"/>
+
 *Learn about UCSD's expanded virtual private network (VPN) service, which lets you create protected connections to UCSD's network from remote locations*
 
 ___
@@ -48,4 +50,4 @@ The UCSD VPN creates a virtual private connection over public networks using enc
 
   To access a VPN pool, when logging in to the VPN, enter your username followed by "@" the pool name. For example, to access the ITS pool, enter "username@ITS"
 
-  
+  <img src="https://github.com/IsaiahShibb/ucsd-vpn/blob/main/d.png"/>
